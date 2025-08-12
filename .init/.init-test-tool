@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/online-snake-and-ladder-platform-156057/snake_and_ladder_frontend"
+}
